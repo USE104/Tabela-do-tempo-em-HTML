@@ -1,0 +1,1 @@
+<img src="tabela.png" alt="Tabela de tempo">
